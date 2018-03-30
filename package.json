@@ -1,0 +1,29 @@
+{
+  "name": "simple-clock",
+  "version": "1.0.1",
+  "description": "Simple package to manage and format times and dates in your projects",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HofferLeonhard/simple-clock.git"
+  },
+  "keywords": [
+    "clock",
+    "node",
+    "date",
+    "calendar",
+    "format",
+    "time"
+  ],
+  "author": "Ouandi Mbiandja Hoffer Fleury",
+  "license": "MIT-Clause",
+  "bugs": {
+    "url": "https://github.com/HofferLeonhard/simple-clock/issues"
+  },
+  "homepage": "https://github.com/HofferLeonhard/simple-clock#readme"
+}
