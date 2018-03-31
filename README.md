@@ -5,22 +5,11 @@ Simple package to manage clock in your projects.
 
 ## How to use
 
-#### Install it as npm dependencies
+#### Install it as npm dependence
 
 ```bash
 npm install simple-clock
 ```
-
-#### Run the app
-
-Then, to run app, you just have to run command :
-
-```bash
-node index.js
-```
-
-This will show you results of the operations performed
-
 
 #### Possibles configurations
 
